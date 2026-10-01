@@ -85,9 +85,9 @@ No external ML libraries are required.
 ## 📂 Project Structure
 
 ```text
-Simple-Linear-Regression/
+linear-regression-with-python_ml/
 │
-├── linear_regression.py
+├── main.py
 └── README.md
 ```
 
@@ -102,13 +102,13 @@ git clone https://github.com/shubhammaharana243/linear-regression-with-python_ml
 ### 2. Navigate to the project
 
 ```bash
-cd simple-linear-regression
+cd linear-regression-with-python_ml
 ```
 
 ### 3. Run the program
 
 ```bash
-python linear_regression.py
+python main.py
 ```
 
 ### 4. Enter your data
