@@ -96,7 +96,7 @@ Simple-Linear-Regression/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/simple-linear-regression.git
+git clone https://github.com/shubhammaharana243/linear-regression-with-python_ml.git
 ```
 
 ### 2. Navigate to the project
@@ -151,7 +151,7 @@ Some possible improvements for this project:
 
 ## 👨‍💻 Author
 
-**Conning**
+**Shubham Maharana**
 
 Built while learning **Python, Statistics, and Machine Learning fundamentals**.
 
