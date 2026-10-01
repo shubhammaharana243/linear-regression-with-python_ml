@@ -34,8 +34,8 @@ def find_product_of_deviation(data1, data2):
     return products
 while True:
     try:
-        x = list(map(float, input("Enter x valeus data: ").split()))
-        y = list(map(float, input("Enter y valeus data: ").split()))
+        x = list(map(float, input("Enter x values data: ").split()))
+        y = list(map(float, input("Enter y values data: ").split()))
 
     except ValueError:
         print("\nError! Enter data like:- 1 2 3 4 5\n")
